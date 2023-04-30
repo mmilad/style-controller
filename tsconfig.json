@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "noImplicitAny": true,
+    "target": "ES5",
+    "module": "ES2015",
+    "outDir": "dist",
+    "rootDir": "src"
+  },
+}
